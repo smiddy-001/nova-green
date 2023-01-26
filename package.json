@@ -1,0 +1,21 @@
+{
+  "name": "smithster-dark-green",
+  "displayName": "Smithster Dark Green",
+  "description": "A dark theme for vscode that uses green as I like green more than blue, makes most elements less impactfull (except for syntax cuz I prefer the most used part of the IDE to be bolder and look prettiest)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "smithy green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/smithy green-color-theme.json"
+      }
+    ]
+  }
+}
