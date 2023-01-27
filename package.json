@@ -1,7 +1,8 @@
 {
-  "name": "smithster-dark-green",
+  "name": "nova-green",
   "repository": "https://github.com/smiddy-001/smithster-dark-green",
-  "displayName": "Smithster Dark Green",
+  "displayName": "Nova Green",
+  "icon": "https: //i.ibb.co/BC4g3LM/Icon-128.png",
   "description": "A dark theme for vscode that uses green as I like green more than blue, makes most elements less impactfull (except for syntax cuz I prefer the most used part of the IDE to be bolder and look prettiest)",
   "version": "0.0.1",
   "engines": {
@@ -13,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "smithy green",
+        "label": "nova green",
         "uiTheme": "vs-dark",
         "path": "./themes/smithy green-color-theme.json"
       }
